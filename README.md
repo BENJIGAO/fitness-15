@@ -6,4 +6,34 @@ To demo the app, you have to have expo, node, and the required libraries install
 
 Here's a quick preview (if you don't want to go to devpost or download the repo, which takes too long anyway):
 
+## Initial Screen
+
+<img src="README_imgs/initial.png" width="250"></img>
+
+## Signup
+
+<img src="README_imgs/signup.png" width="250"></img>
+
+## Login
+
+<img src="README_imgs/login.png" width="250"></img>
+
+## Homepage
+
+<img src="README_imgs/home.png" width="250"></img>
+
+## Match Screen
+
+<img src="README_imgs/match" width="250"></img>
+
+## Gym Location
+
 <img src="README_imgs/gym.png" width="250"></img>
+
+## Profile
+
+<img src="README_imgs/profile.png" width="250"></img>
+
+## Help Screen
+
+<img src="README_imgs/help.png" width="250"></img>
