@@ -4,7 +4,6 @@ This is a mobile fitness app that connects users with similar interests in physi
 
 To demo the app, you have to have expo, node, and the required libraries installed. You also have to download the expo client on your phone or use a virtual machine. Then simply clone the repo using `git clone` then `expo start` in the cloned repo, scan the QR code and enjoy!
 
-Here's a quick preview (if you don't want to go to devpost or download the repo, which takes too long anyway): 
+Here's a quick preview (if you don't want to go to devpost or download the repo, which takes too long anyway):
 
-
-
+<img src="README_imgs/gym.png"></img>
