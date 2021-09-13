@@ -24,7 +24,7 @@ Here's a quick preview (if you don't want to go to devpost or download the repo,
 
 ## Match Screen
 
-<img src="README_imgs/match" width="250"></img>
+<img src="README_imgs/match.png" width="250"></img>
 
 ## Gym Location
 
