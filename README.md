@@ -6,4 +6,4 @@ To demo the app, you have to have expo, node, and the required libraries install
 
 Here's a quick preview (if you don't want to go to devpost or download the repo, which takes too long anyway):
 
-<img src="README_imgs/gym.png" width="100"></img>
+<img src="README_imgs/gym.png" width="250"></img>
